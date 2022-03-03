@@ -1,5 +1,5 @@
 {
-  "employees": [
+  "employees": 
     {
         id: 1, 
         name: 'Ram', 
@@ -21,5 +21,5 @@
         email: 'vinay@mail.com', 
         mobile: '9975287450'  
       }
-  ]
+  
 }
