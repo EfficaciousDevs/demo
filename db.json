@@ -1,47 +1,60 @@
 {
-  "posts": [
+  "restaurants": [
     {
-      "id": 2,
-      "firstName": "Abhishek",
-      "lastName": "Yadav",
-      "email": "abhishek.connectrix@gmail.com",
-      "mobile": "9877898765",
-      "salary": "80,000"
-    },
-    {
-      "id": 3,
-      "firstName": "Reshma",
-      "lastName": "Yadav",
-      "email": "reshma@gmail.com",
-      "mobile": "9988777676",
-      "salary": "85,999"
-    },
-    {
-      "id": 4,
-      "firstName": "John",
-      "lastName": "Smith",
-      "email": "john.smith@abbvie.com",
-      "mobile": "9899867767",
-      "salary": "80,000"
-    }
-  ],
-  "signupUsers": [
-    {
-      "fullname": "Sashi Yadav",
-      "mobile": "9898745878",
-      "email": "yshashi30@gmail.com",
-      "password": "123456",
+      "name": "KFC restaurant",
+      "email": "kfc@test.com",
+      "address": "Noida, sector 120",
       "id": 1
     },
     {
-      "fullname": "",
-      "email": "",
-      "password": "",
-      "mobile": "",
+      "name": "OM restaurant",
+      "email": "om@test.com",
+      "address": "Delhi sector 20",
       "id": 2
+    },
+    {
+      "name": "burgent king restaurant",
+      "email": "bKing@test.com",
+      "address": "Dwarka sector 120",
+      "id": 3
+    },
+    {
+      "name": "dominos king restaurant",
+      "address": "gurgaon sector 20",
+      "email": "dominos@test.com",
+      "id": 4
+    },
+    {
+      "name": "halidram king restaurant",
+      "address": "draka sector 20",
+      "email": "halidram@test.com",
+      "id": 5
+    },
+    {
+      "name": "subway",
+      "email": "sunway@test.com",
+      "address": "delhi north",
+      "id": 6
+    },
+    {
+      "name": "natural food",
+      "email": "natural@test.com",
+      "address": "greater noida ",
+      "id": 7
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "users": [
+    {
+      "name": "peter",
+      "email": "peter@test.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "name": "anil",
+      "email": "anil@test.com",
+      "password": "12345",
+      "id": 2
+    }
+  ]
 }
