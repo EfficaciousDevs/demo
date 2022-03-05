@@ -7,10 +7,10 @@
       "id": 1
     },
     {
-      "name": "OM restaurant",
-      "email": "om@test.com",
-      "address": "Delhi sector 20",
-      "id": 2
+      "name": "Akshay Kumar",
+      "email": "akshaydummy@outlook.com",
+      "address": "Patna,Bihar",
+      "id": 999999
     },
     {
       "name": "burgent king restaurant",
@@ -45,9 +45,9 @@
   ],
   "users": [
     {
-      "name": "peter",
-      "email": "peter@test.com",
-      "password": "123",
+      "name": "Akshay Kumar",
+      "email": "akskadmin@outlook.com",
+      "password": "admin",
       "id": 1
     },
     {
