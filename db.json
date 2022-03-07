@@ -3,6 +3,7 @@
     {
       "name": "KFC restaurant",
       "email": "kfc@test.com",
+      "designation":"Senior Software Engineer B2",
       "address": "Noida, sector 120",
       "id": 1
     },
